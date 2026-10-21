@@ -1,0 +1,25 @@
+# Python cache and test files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated vector databases and backups
+chroma_db/
+chroma_db_backup/

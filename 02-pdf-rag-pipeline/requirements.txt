@@ -1,0 +1,9 @@
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-google-genai
+langchain-core
+sentence-transformers
+python-dotenv
+pypdf

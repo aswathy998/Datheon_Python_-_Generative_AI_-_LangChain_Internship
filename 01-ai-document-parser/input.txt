@@ -1,0 +1,11 @@
+Invoice Number: TEST-002
+Supplier: Green Valley Supplies
+Customer: Bright Star Trading
+
+Items:
+1. Office chairs - Quantity: 4 - Unit Price: 125.00
+
+Subtotal: 500.00
+Tax: 25.00
+Total Amount: 525.00
+Currency: AED
